@@ -1,6 +1,8 @@
+<<<<<<< HEAD
 #commit 1
 #commit 2
 #commit 3
+>>>>>>> branch1
 # Model Search
 
 ![header](https://raw.githubusercontent.com/google/model_search/master/model_search/images/model_search_logo.png)
@@ -21,7 +23,6 @@ and the best distilled models.
 
 The technical description of the capabilities of this framework are found in
 [InterSpeech paper](https://pdfs.semanticscholar.org/1bca/d4cdfbc01fbb60a815660d034e561843d67a.pdf).
-
 While this framework can potentially be used for regression problems, the current
 version supports classification problems only. Let's start by looking at some
 classic classification problems and see how the framework can automatically find competitive
